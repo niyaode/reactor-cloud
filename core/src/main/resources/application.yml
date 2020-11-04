@@ -1,0 +1,8 @@
+logging:
+  level: { org.springframework.data.r2dbc: DEBUG }
+
+spring:
+  r2dbc:
+    url: r2dbcs:mysql://39.98.175.38:3307/erp_core?useUnicode=true&serverTimezone=Asia/Shanghai&useSSL=false&autoReconnect=true
+    username: test
+    password: test-test-tt
